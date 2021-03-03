@@ -59,3 +59,6 @@ plt.plot(points_xi, points_M)
 plt.ylabel('Mom')
 plt.xlabel('xi ')
 plt.show()
+
+
+#Дима - лох
